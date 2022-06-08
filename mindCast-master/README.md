@@ -201,6 +201,6 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/steniowagner/)
 
 Thank you!
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/steniowagner/mindCast/blob/master/LICENSE) file for details
