@@ -191,8 +191,7 @@ $ react-native run-ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: natancunhaofficialcontact@gmail.com | stenio.wagner1@gmail.com
-
+Email-me: natancunhaofficialcontact@gmail.com 
 Connect with me at [(https://www.linkedin.com/in/natan-cunha-s-721458229/)]
 
 Thank you!
